@@ -1,0 +1,12 @@
+{
+  "name": "aspectjs",
+  "version": "1.0.0",
+  "description": "AOP library for Javascript",
+  "main": "aspect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Reese",
+  "license": "ISC",
+  "dependencies": {}
+}
